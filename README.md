@@ -1,1 +1,1 @@
-# pandaNFT
+# HKBU FinTech Project - PandaNFT
