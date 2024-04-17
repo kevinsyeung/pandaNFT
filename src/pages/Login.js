@@ -2,7 +2,7 @@ import react, {useContext} from "react";
 import {Link, useNavigate} from "react-router-dom";
 import {useEthers, useEtherBalance} from "@usedapp/core";
 import React from "react";
-import "../styles/Login.css";
+import "./Login.css";
 
 
 
